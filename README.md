@@ -54,7 +54,7 @@ I’m actively working toward a future as a **Security Operations Center (SOC) A
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/patience-pesendorfer-243089309">
+  <a href="https://www.linkedin.com/in/patience-pesendorfer-243089309">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
