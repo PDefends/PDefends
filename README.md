@@ -55,7 +55,7 @@ I’m actively working toward a future as a **Security Operations Center (SOC) A
 
 Here are some of the cybersecurity labs I’ve completed so far:
 
-- **[LM Hash Cracking Lab](https://https://github.com/PDefends/PDefends/tree/main/LM-hash-lab)**  
+- **[LM Hash Cracking Lab](https://github.com/PDefends/PDefends/tree/main/LM-hash-lab)**  
   Cracked legacy LM password hashes using `john`. Learned about hash formats, weaknesses, and cracking tools.
 
 - **[DNS Zone Transfer Lab](https://github.com/PDefends/PDefends/tree/main/labs/DNS-Zone-Transfer)**  
