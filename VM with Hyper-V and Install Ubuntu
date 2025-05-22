@@ -1,8 +1,7 @@
 ## Exercise 1: Create a VM with Hyper-V and Install Ubuntu
 
 ### Watch the Lab Walkthrough  
-[Click here to watch the video walkthrough on Google Drive](https://drive.google.com/drive/folders/1vrC4GxIE4cjkrucxKB6M98ZYFyNYOiC9?usp=sharing)
-
+[https://drive.google.com/drive/folders/1vrC4GxIE4cjkrucxKB6M98ZYFyNYOiC9?usp=sharing]
 ### What I Did
 - Created a Generation 2 VM using Hyper-V on Windows 11  
 - Assigned 2048MB RAM and a 25GB virtual hard disk  
