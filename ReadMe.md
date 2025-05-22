@@ -4,6 +4,7 @@
 
 In this lab, we used **Hyper-V** (a Type 1 hypervisor) on **ACIWIN11** to create and install an Ubuntu 22.04.3 virtual machine. Although it appears as an app in Windows, Hyper-V runs directly on the system hardware, making it a "bare metal" hypervisor.
 
+Click here for the videos https://drive.google.com/drive/folders/1vrC4GxIE4cjkrucxKB6M98ZYFyNYOiC9?usp=sharing
 ---
 
 ## 🎯 Objectives
