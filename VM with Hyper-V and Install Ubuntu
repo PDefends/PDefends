@@ -1,0 +1,28 @@
+## 🧪 Exercise 1: Create a VM with Hyper-V and Install Ubuntu
+
+This lab demonstrates how I set up a virtual machine using Hyper-V on Windows 11 Pro and installed Ubuntu 22.04.3.
+
+📂 **Watch the full walkthrough (Part 1 & 2)**:  
+[▶ View on Google Drive](https://drive.google.com/drive/folders/1vrC4GxIE4cjkrucxKB6M98ZYFyNYOiC9?usp=sharing)
+
+---
+
+### 🔧 What I did:
+- Opened **Hyper-V Manager** on ACIWIN11
+- Created a **Generation 2** virtual machine
+- Assigned **2048MB RAM** and **25GB virtual hard disk**
+- Connected the VM to the **Default Switch** for basic networking
+- Selected the **Ubuntu 22.04.3 ISO**
+- **Disabled Secure Boot** to ensure compatibility with Ubuntu
+- Started the VM and completed Ubuntu installation
+
+---
+
+### 📝 Notes & Observations:
+- The **Default Switch** is useful for quick internet access and communication between the VM and the host.
+- Hyper-V may appear like an app, but it functions as a **Type 1 (bare-metal) hypervisor**.
+- **Secure Boot must be disabled** in Hyper-V when installing most Linux distributions.
+
+---
+
+This setup provides a basic knowledge of how to install Ubuntu using Hyper-V, useful for future virtualization tasks.
