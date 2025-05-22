@@ -1,27 +1,18 @@
-## 🧪 Exercise 1: Create a VM with Hyper-V and Install Ubuntu
+## Exercise 1: Create a VM with Hyper-V and Install Ubuntu
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-Windows11-blue?style=for-the-badge&logo=windows)
+### Watch the Lab Walkthrough  
+[Click here to watch the video walkthrough on Google Drive](https://drive.google.com/drive/folders/1vrC4GxIE4cjkrucxKB6M98ZYFyNYOiC9?usp=sharing)
 
-### 🎥 Watch the Lab Walkthrough  
-[![Watch on Google Drive]
-(https://img.shields.io/badge/Watch%20Video-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1vrC4GxIE4cjkrucxKB6M98ZYFyNYOiC9?usp=sharing)
+### What I Did
+- Created a Generation 2 VM using Hyper-V on Windows 11  
+- Assigned 2048MB RAM and a 25GB virtual hard disk  
+- Connected to the Default Switch  
+- Attached the Ubuntu ISO and disabled Secure Boot  
+- Launched and completed Ubuntu installation  
 
----
+### Notes
+- The Default Switch provides internet access without extra configuration  
+- Secure Boot must be disabled for Ubuntu to boot in Hyper-V  
 
-### 🔧 What I Did:
-- Created a **Generation 2** VM using Hyper-V on Windows 11
-- Assigned `2048MB RAM` and `25GB` virtual hard disk
-- Connected to the **Default Switch**
-- Attached the Ubuntu ISO and disabled Secure Boot
-- Launched and completed Ubuntu installation
-
----
-
-### 📌 Notes:
-- Default Switch gives internet access without complex setup
-- Secure Boot must be disabled for Ubuntu to boot in Hyper-V
-
----
-
-> This VM shows a basic example of installing Ubuntu in a Hyper-V environment. A useful process for setting up test labs or isolated environments in the future.
+> This VM shows a basic example of installing Ubuntu in a Hyper-V environment.  
+> A useful process for setting up test labs or isolated environments.
